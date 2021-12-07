@@ -1,3 +1,3 @@
 # Aether
 
-This was another attempt at a functional engine, unfortunatly forgot where I was and feel some stuff needed major change anyway 
+This was another attempt at a functional engine, unfortunately I forgot where I had gotton to and I feel that this project needs major changes anyway 
